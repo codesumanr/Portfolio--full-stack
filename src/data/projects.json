@@ -1,0 +1,16 @@
+[
+  {
+    "title": "DanceLover",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest punjabi dance trend  by using youtube & google map API's.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/codesumanr/DanceLover"
+  },
+  {
+    "title": "LibrarySystem",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the Library management system with backend .",
+    "skills": [".Net", "MVC", "springboot"],
+    "source": "https://github.com/codesumanr/LibrarySystem01"
+  }
+]

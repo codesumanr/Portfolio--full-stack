@@ -1,0 +1,24 @@
+[
+  {
+    "title": "  Web Development",
+    "imageSrc": "education/education1.png",
+    "description": "Humber College North Campus, Toronto ON ",
+
+    "skills": ["Sep. 2024", "April 2025"]
+    
+  },
+  {
+    "title": "Business Analysis",
+    "imageSrc": "education/education2.png",
+    "description": "Sheridan College, Mississauga, ON ",
+    "skills": ["Jan. 2024" , "Sep. 2024."]
+    
+  },
+  {
+    "title": "M.Sc. in Mathematics",
+    "imageSrc": "education/education3.png",
+    "description": "Choudhary Devi Lal University, Sirsa, Haryana, India",
+    "skills": ["May 2018 ", "June 2020"]
+    
+  }
+]
